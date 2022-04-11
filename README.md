@@ -10,7 +10,7 @@
 
 - 🥷 Currently hacking the planet
 - 📓 I’m currently learning various different subjects
-- 👯 I’m looking to collaborate with OSINT(Open Source Intelligence) projects
+- ⚖️ I’m looking to collaborate with OSINT(Open Source Intelligence) projects
 - 🕵️ Intelligence Analyst 
 - 🕹️ Checkout Hacktoria and learn OSINT: [Hacktoria](https://hacktoria.com)
 
