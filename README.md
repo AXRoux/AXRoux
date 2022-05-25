@@ -12,7 +12,7 @@
 - 📓 I’m currently learning various different subjects
 - ⚖️ I’m looking to collaborate with OSINT(Open Source Intelligence) projects
 - 🕵️ Intelligence Analyst 
-- 🕹️ Checkout Hacktoria and learn OSINT: [Hacktoria](https://hacktoria.com)
+- 🕹️ Checkout Ultimate OSINT Collection and learn OSINT: [OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
 ### Languages and Tools:
 
