@@ -8,10 +8,10 @@
 -->
 
 
-- 🥷 Currently hacking the planet
+- 🥷 Currently using AI for clandestine purposes
 - 📓 I’m currently learning various different subjects
-- ⚖️ I’m looking to collaborate with OSINT(Open Source Intelligence) projects
-- 🕵️ Intelligence Analyst 
+- ⚖️ Co-Founder of www.hacktoria.com <-- practice your OSINT & Security Skills. 
+- 🕵️ Former Intelligence Analyst turned Red-Teamer 
 - 🕹️ Checkout Ultimate OSINT Collection and learn OSINT: [OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
 ### Languages and Tools:
