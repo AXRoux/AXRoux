@@ -11,7 +11,7 @@
 - 🥷 Currently using AI for clandestine purposes
 - 📓 I’m currently learning various different subjects
 - ⚖️ Co-Founder of www.hacktoria.com <-- practice your OSINT & Security Skills. 
-- 🕵️ Former Intelligence Analyst turned Red-Teamer 
+- 🕵️ Digital Sleuth who loves solving technical and non-technical problems
 - 🕹️ Checkout Ultimate OSINT Collection and learn OSINT: [OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
 ### Languages and Tools:
