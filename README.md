@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/unshelledsec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Funshelledsec&screen_name=unshelledsec)
 
-## I'm a OSINT Enthusiast and Security Analyst
+## I'm a OSINT Enthusiast
 <!--
 **VEEXH/VEEXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-- 🥷 Currently using AI for clandestine purposes
+- 🥷 Currently using AI responsibly
 - 📓 I’m currently learning various different subjects
 - ⚖️ Co-Founder of www.hacktoria.com <-- practice your OSINT & Security Skills. 
 - 🕵️ Digital Sleuth who loves solving technical and non-technical problems
