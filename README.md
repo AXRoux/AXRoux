@@ -1,6 +1,6 @@
 #  Hi there, I'm VEEXH 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/unshelledsec?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Funshelledsec&screen_name=unshelledsec)
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vance-poitier/)
 
 ## I'm a OSINT Enthusiast
 <!--
