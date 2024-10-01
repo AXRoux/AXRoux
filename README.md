@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vance-poitier/)
 
-## I'm a OSINT Enthusiast & Programmer
+## I'm a All-Source Intelligence Professional & Innovator
 <!--
 **VEEXH/VEEXH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
