@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axroux" alt="axroux" /></a> </p>
 
-- 🔭 I’m currently working on [Hacktoria](https://hacktoria.com/)
+- 🔭 I’m currently working on [A lot](https://medium.com/the-sleuth-sheet/my-short-term-learning-goals-becoming-better-at-intelligence-69da102bb5ba)
 
 - 🌱 I’m currently learning **Agentic Systems, DevOps, and Cloud**
 
