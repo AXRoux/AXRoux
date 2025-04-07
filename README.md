@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@VEEXH](https://medium.com/@VEEXH)
 
-- 💬 Ask me about **Cursor, Windsurf and OSINT**
+- 💬 Ask me about **How to become a polyglot, Travel Hacks and OSINT**
 
 - 📫 How to reach me **VanceP@protonmail.com**
 
