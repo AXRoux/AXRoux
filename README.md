@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **VanceP@protonmail.com**
 
-- 📄 Know about my experiences [https://www.vancepoitier.me/](https://www.vancepoitier.me/)
+- 📄 Know about my company [https://www.stratir.com/](https://www.stratir.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
