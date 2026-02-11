@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Anthropic Computer Use](https://replit.com/join/iubvssxwla-vvp15)
 
-- 📝 I regularly write articles on [https://medium.com/@VEEXH](https://medium.com/@VEEXH)
+- 📝 I regularly build Agentic tools on [https://stratir.com](https://stratir.com)
 
 - 💬 Ask me about **How to become a polyglot, Travel Hacks and OSINT**
 
