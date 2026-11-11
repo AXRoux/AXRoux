@@ -3,21 +3,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axroux" alt="axroux" /></a> </p>
 
-- 🔭 I’m currently working on [A lot](https://medium.com/the-sleuth-sheet/my-short-term-learning-goals-becoming-better-at-intelligence-69da102bb5ba)
+- 🔭 I’m currently working on a lot in regards to the space of autonomous AI and Infrastructure 
 
 - 🌱 I’m currently learning **Agentic Systems, DevOps, and Cloud**
 
-- 👯 I’m looking to collaborate on [AI-integrated Web App](https://replit.com/bounties?service=1)
+- 👯 I’m looking to collaborate on building ai agents for mission critical work
 
 - 🤝 I’m looking for help with [Anthropic Computer Use](https://replit.com/join/iubvssxwla-vvp15)
 
-- 📝 I regularly build Agentic tools on [https://stratir.com](https://stratir.com)
+- 📝 I regularly build Agentic tools on [https://vancepoitier.me](https://vancepoitier.me)
 
 - 💬 Ask me about **How to become a polyglot, Travel Hacks and OSINT**
 
 - 📫 How to reach me **VVP15@PM.ME**
 
-- 📄 Know about my company [https://www.stratir.com/](https://www.stratir.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
