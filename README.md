@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on building ai agents for mission critical work
 
-- 🤝 I’m looking for help with [Anthropic Computer Use](https://replit.com/join/iubvssxwla-vvp15)
+- 🤝 I’m looking for help with [AI for CAD development and hardware vibing](https://www.blueprint.io)
 
 - 📝 I regularly build Agentic tools on [https://vancepoitier.me](https://vancepoitier.me)
 
