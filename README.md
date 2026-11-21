@@ -9,7 +9,7 @@
 
 AI & Design Engineer. I build agents you can trust with money, intelligence and infrastructure, and the interfaces people use to watch them work.
 
-Right now I'm shipping **[Tessera](https://github.com/AXRoux/tessera)**, the control layer between AI agents and a treasury: policy decides what an agent may do, a person signs what only a person should, and every move is proved on a ledger.
+I recently shipped **[Tessera](https://github.com/AXRoux/tessera)** for the **Airwallex Agentic Banking Hackathon**: the control layer between AI agents and a treasury. Policy decides what an agent may do, a person signs what only a person should, and every move is proved on a ledger.
 
 **Focus** &nbsp;agent safety · MCP · OSINT · payments
 **Open to** &nbsp;building agents for mission-critical work
