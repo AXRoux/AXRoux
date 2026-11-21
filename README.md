@@ -1,50 +1,41 @@
-<a href="https://vancepoitier.me"><img src="assets/hero.svg" width="100%" alt="Vance Poitier, AI and Design Engineer at Stratir Applied AI Studio. I build agents you can trust with money, intelligence and infrastructure."></a>
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <a href="https://vancepoitier.me"><img src="assets/cards/vance.svg" width="100%" alt="Vance Poitier's profile card: AI and Design Engineer, with live GitHub stats."></a>
+    </td>
+    <td valign="top">
+
+### Hey, I'm Vance 👋
+
+AI & Design Engineer. I build agents you can trust with money, intelligence and infrastructure, and the interfaces people use to watch them work.
+
+Right now I'm shipping **[Tessera](https://github.com/AXRoux/tessera)**, the control layer between AI agents and a treasury: policy decides what an agent may do, a person signs what only a person should, and every move is proved on a ledger.
+
+**Focus** &nbsp;agent safety · MCP · OSINT · payments
+**Open to** &nbsp;building agents for mission-critical work
+**Ask me about** &nbsp;OSINT, learning languages, travel hacks
+
+<a href="https://vancepoitier.me" title="vancepoitier.me"><img src="assets/social/web.svg" width="36" alt="Website"></a> <a href="https://x.com/vancepoitier" title="X"><img src="assets/social/x.svg" width="36" alt="X"></a> <a href="https://linkedin.com/in/vance-poitier" title="LinkedIn"><img src="assets/social/linkedin.svg" width="36" alt="LinkedIn"></a> <a href="mailto:vvp15@pm.me" title="vvp15@pm.me"><img src="assets/social/mail.svg" width="36" alt="Email"></a>
+
+</td>
+  </tr>
+</table>
+
+### The deck
 
 <p align="center">
-  <a href="https://vancepoitier.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-web.svg"><img src="assets/light/btn-web.svg" height="40" alt="vancepoitier.me"></picture></a>&nbsp;
-  <a href="https://x.com/vancepoitier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-x.svg"><img src="assets/light/btn-x.svg" height="40" alt="X: @vancepoitier"></picture></a>&nbsp;
-  <a href="https://linkedin.com/in/vance-poitier"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-linkedin.svg"><img src="assets/light/btn-linkedin.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;
-  <a href="mailto:vvp15@pm.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/btn-email.svg"><img src="assets/light/btn-email.svg" height="40" alt="Email: vvp15@pm.me"></picture></a>
-</p>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stats.svg"><img src="assets/light/stats.svg" width="100%" alt="GitHub stats: stars earned, contributions in the last year, public projects, hackathon builds, and years on GitHub."></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-principles.svg"><img src="assets/light/section-principles.svg" width="100%" alt="01 Operating principle"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/loop.svg"><img src="assets/light/loop.svg" width="100%" alt="How I build agents: the model reads and proposes but never holds the keys; policy decides in code the model cannot argue past; a person signs anything irreversible; the ledger proves every call, refusal and payment."></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-work.svg"><img src="assets/light/section-work.svg" width="100%" alt="02 Selected work"></picture>
-
-<p align="center">
-  <a href="https://github.com/AXRoux/tessera"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/tessera.svg"><img src="assets/light/projects/tessera.svg" width="49%" alt="Tessera: the control layer between AI agents and a treasury."></picture></a>
-  <a href="https://github.com/AXRoux/OSINT-Assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/OSINT-Assistant.svg"><img src="assets/light/projects/OSINT-Assistant.svg" width="49%" alt="OSINT Assistant: AI-enhanced open-source intelligence with Perplexity Sonar."></picture></a>
+  <a href="https://github.com/AXRoux/tessera"><img src="assets/cards/tessera.svg" width="32%" alt="Tessera: the control layer between AI agents and a treasury. Policy Gate, 15 tools; Red Team, 57 of 57 attacks held."></a>
+  <a href="https://github.com/AXRoux/OSINT-Assistant"><img src="assets/cards/osint-assistant.svg" width="32%" alt="OSINT Assistant: a research agent on Perplexity Sonar that maps entities and writes the report."></a>
+  <a href="https://github.com/AXRoux/argus-os"><img src="assets/cards/argus.svg" width="32%" alt="Argus: autonomous OSINT that plans, runs six adapters and iterates up to five rounds."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AXRoux/argus-os"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/argus-os.svg"><img src="assets/light/projects/argus-os.svg" width="49%" alt="Argus: autonomous OSINT orchestration."></picture></a>
-  <a href="https://github.com/AXRoux/veronica-osint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/veronica-osint.svg"><img src="assets/light/projects/veronica-osint.svg" width="49%" alt="Veronica: an investigative copilot for entity screening."></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/AXRoux/meridian"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/meridian.svg"><img src="assets/light/projects/meridian.svg" width="49%" alt="MERIDIAN: three agents argue a decision."></picture></a>
-  <a href="https://github.com/AXRoux/signal-canvas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects/signal-canvas.svg"><img src="assets/light/projects/signal-canvas.svg" width="49%" alt="Signal Canvas: a macOS investigation console for NGOs."></picture></a>
+  <a href="https://github.com/AXRoux/veronica-osint"><img src="assets/cards/veronica.svg" width="32%" alt="Veronica: an investigative copilot on Gemini that screens against sanctions and watchlists."></a>
+  <a href="https://github.com/AXRoux/meridian"><img src="assets/cards/meridian.svg" width="32%" alt="MERIDIAN: three agents debate a decision and brief it in their own voices."></a>
+  <a href="https://github.com/AXRoux/signal-canvas"><img src="assets/cards/signal-canvas.svg" width="32%" alt="Signal Canvas: a macOS investigation console with an encrypted case vault and a desk agent."></a>
 </p>
 
-<p align="center"><sub>Also: <a href="https://github.com/AXRoux/WhatsMyName-Web">WhatsMyName-Web</a> · <a href="https://github.com/AXRoux/sigint-decoder">sigint-decoder</a> · <a href="https://github.com/AXRoux/AllSourceIntelligenceHub">AllSourceIntelligenceHub</a> · <a href="https://github.com/AXRoux?tab=repositories&type=source">every project →</a></sub></p>
+### The agentic stack
 
-<br>
+<img src="assets/ecosystem.svg" width="100%" alt="The agentic ecosystem I build across. Frontier labs: OpenAI, Anthropic, Google DeepMind, xAI, SpaceX, Meta, Mistral AI, NVIDIA. Agents and orchestration: LangChain, LangGraph, MCP, CrewAI, Nous Research, Hugging Face, Perplexity, ElevenLabs. Rails and infrastructure: AWS, Cloudflare, Vercel, Stripe, Visa, Airwallex, Cursor, GitHub Copilot.">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-signal.svg"><img src="assets/light/section-signal.svg" width="100%" alt="03 Signal"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg"><img src="assets/light/activity.svg" width="100%" alt="Contribution graph for the last year, and languages by project."></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-stack.svg"><img src="assets/light/section-stack.svg" width="100%" alt="04 The agentic ecosystem"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="The agentic ecosystem I build across: OpenAI, Anthropic, Google DeepMind, xAI, SpaceX, Meta AI, Mistral AI, NVIDIA, LangChain, LangGraph, Model Context Protocol, CrewAI, Nous Research, Hugging Face, Perplexity, ElevenLabs, AWS, Cloudflare, Vercel, Stripe, Visa, Airwallex, Cursor and GitHub Copilot."></picture>
-
-<br>
-
-<a href="https://vancepoitier.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"><img src="assets/light/footer.svg" width="100%" alt="Just ship it."></picture></a>
-
-<!-- Every image here is generated by scripts/build.mjs from the GitHub API and refreshed daily by .github/workflows/refresh.yml. Logos are trademarks of their owners. -->
+<p align="center"><sub>Cards are drawn by <a href="scripts/build.mjs">scripts/build.mjs</a> and refreshed daily from the GitHub API · logos belong to their owners</sub></p>

@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/**", "assets/icons/**", "assets/brand/**", "assets/fonts/**", ".github/workflows/refresh.yml"]
+    paths: ["scripts/**", "assets/logos/**", "assets/brand/**", "assets/fonts/**", ".github/workflows/refresh.yml"]
 
 permissions:
   contents: write
